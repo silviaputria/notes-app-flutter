@@ -1,6 +1,5 @@
 # Miscellaneous
 *.class
-<<<<<<< HEAD
 *.log
 *.pyc
 *.swp
@@ -44,6 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+=======
 =======
 *.lock
 *.log
@@ -161,5 +161,5 @@ app.*.symbols
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+=======
 !/dev/ci/**/Gemfile.lock
->>>>>>> f977b8d2c53f6c878ba68573cfe55ff0ae63fd34
