@@ -10,8 +10,8 @@ Aplikasi catatan sederhana built dengan Flutter dan Dart.
 - ✅ Responsive UI
 
 ## 👥 Anggota Kelompok
-- May Syesa R - UI Layer & Presentasi
-- Nancy Akisya N - State Management & Business Logic
+- RIZQI CAHYA MAULIDA - UI Layer & Presentasi
+- SILVIA PUTRI ANGGRAINI - State Management & Business Logic
 
 ## 🛠️ Teknologi
 - Flutter 3.x
